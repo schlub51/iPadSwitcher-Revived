@@ -1,0 +1,9 @@
+Package: com.schlub51.ipadswitcherrevived
+Name: iPadSwitcher Revived
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Description: iPad-style grid app switcher for iOS 16. Rewrite of iPadSwitcher (concept by mali9510).
+Maintainer: schlub51
+Author: schlub51 (concept by mali9510)
+Section: Tweaks
+Depends: firmware (>= 16.0), mobilesubstrate (>= 0.9.5000)

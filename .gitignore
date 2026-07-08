@@ -1,0 +1,10 @@
+.theos/
+packages/
+.DS_Store
+analysis_frames/
+device_logs/
+invocation_frames/
+invocation_frames2/
+reverse/
+*.log
+*.ips
